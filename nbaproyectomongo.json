@@ -1,4 +1,5 @@
-{
+[
+    {
         "teamName": "Atlanta Hawks",
         "teamId": 1,
         "abbreviation": "ATL",
@@ -6,68 +7,24 @@
         "conference": "Este",
         "establishedYear": 1946,
         "achievements": [
-          "NBA Championship (1958)",
-          "4 Conference Titles",
-          "Division Titles: 5"
-        ],
-        "players": [
-            {
-                "name": "Trae Young",
-                "age": 23,
-                "height_cm": 187,
-                "birthdate": "1998-09-19",
-                "position": "PG",
-                "jerseyNumber": 11,
-                "isAllStar": false,
-                "statistics": {
-                    "pointsPerGame": 26.9,
-                    "assistsPerGame": 9.5,
-                    "reboundsPerGame": 4.1
-                }
-            },
-            {
-                "name": "John Collins",
-                "age": 24,
-                "height_cm": 203,
-                "birthdate": "1997-09-23",
-                "position": "PF",
-                "jerseyNumber": 20,
-                "isAllStar": false,
-                "statistics": {
-                    "pointsPerGame": 17.6,
-                    "assistsPerGame": 1.3,
-                    "reboundsPerGame": 7.4
-                }
-            },
-            {
-                "name": "Clint Capela",
-                "age": 27,
-                "height_cm": 211,
-                "birthdate": "1994-05-18",
-                "position": "C",
-                "jerseyNumber": 15,
-                "isAllStar": true,
-                "statistics": {
-                    "pointsPerGame": 14.3,
-                    "assistsPerGame": 0.9,
-                    "reboundsPerGame": 14.9
-                }
-            },
-            {
-                "name": "Bogdan Bogdanović",
-                "age": 29,
-                "height_cm": 198,
-                "birthdate": "1992-08-18",
-                "position": "SG",
-                "jerseyNumber": 13,
-                "isAllStar": false,
-                "statistics": {
-                    "pointsPerGame": 14.5,
-                    "assistsPerGame": 3.5,
-                    "reboundsPerGame": 3.5
-                }
+            "NBA Championship (1958)",
+            "4 Conference Titles",
+            "Division Titles: 5"
+          ],
+        "player": {
+            "name": "Trae Young",
+            "age": 23,
+            "height_cm": 187,
+            "birthdate": "1998-09-19",
+            "position": "PG",
+            "jerseyNumber": 11,
+            "isAllStar": false,
+            "statistics": {
+                "pointsPerGame": 26.9,
+                "assistsPerGame": 9.5,
+                "reboundsPerGame": 4.1
             }
-        ]
+        }
     },
     {
         "teamName": "Boston Celtics",
@@ -77,82 +34,24 @@
         "conference": "Este",
         "establishedYear": 1946,
         "achievements": [
-          "NBA Championships: 17",
-          "Conference Titles: 21",
-          "Division Titles: 23"
-        ],
-        "players": [
-            {
-                "name": "Jayson Tatum",
-                "age": 23,
-                "height_cm": 203,
-                "birthdate": "1998-03-03",
-                "position": "SF",
-                "jerseyNumber": 0,
-                "isAllStar": true,
-                "statistics": {
-                    "pointsPerGame": 25.3,
-                    "assistsPerGame": 4.7,
-                    "reboundsPerGame": 8.4
-                }
-            },
-            {
-                "name": "Jaylen Brown",
-                "age": 25,
-                "height_cm": 198,
-                "birthdate": "1996-10-24",
-                "position": "SG",
-                "jerseyNumber": 7,
-                "isAllStar": true,
-                "statistics": {
-                    "pointsPerGame": 24.0,
-                    "assistsPerGame": 3.4,
-                    "reboundsPerGame": 6.2
-                }
-            },
-            {
-                "name": "Marcus Smart",
-                "age": 27,
-                "height_cm": 193,
-                "birthdate": "1994-03-06",
-                "position": "PG",
-                "jerseyNumber": 36,
-                "isAllStar": false,
-                "statistics": {
-                    "pointsPerGame": 13.1,
-                    "assistsPerGame": 6.0,
-                    "reboundsPerGame": 3.5
-                }
-            },
-            {
-                "name": "Al Horford",
-                "age": 35,
-                "height_cm": 208,
-                "birthdate": "1986-06-03",
-                "position": "C",
-                "jerseyNumber": 42,
-                "isAllStar": true,
-                "statistics": {
-                    "pointsPerGame": 9.2,
-                    "assistsPerGame": 3.6,
-                    "reboundsPerGame": 6.8
-                }
-            },
-            {
-                "name": "Robert Williams III",
-                "age": 24,
-                "height_cm": 206,
-                "birthdate": "1997-10-17",
-                "position": "C",
-                "jerseyNumber": 44,
-                "isAllStar": false,
-                "statistics": {
-                    "pointsPerGame": 7.2,
-                    "assistsPerGame": 1.2,
-                    "reboundsPerGame": 7.5
-                }
+            "NBA Championships: 17",
+            "Conference Titles: 21",
+            "Division Titles: 23"
+          ],
+        "player": {
+            "name": "Jayson Tatum",
+            "age": 23,
+            "height_cm": 203,
+            "birthdate": "1998-03-03",
+            "position": "SF",
+            "jerseyNumber": 0,
+            "isAllStar": true,
+            "statistics": {
+                "pointsPerGame": 25.3,
+                "assistsPerGame": 4.7,
+                "reboundsPerGame": 8.4
             }
-        ]
+        }
     },
     {
         "teamName": "Brooklyn Nets",
@@ -162,53 +61,23 @@
         "conference": "Este",
         "establishedYear": 1967,
         "achievements": [
-          "2 Conference Titles",
-          "Division Titles: 6"
-        ],
-        "players": [
-            {
-                "name": "Kevin Durant",
-                "age": 33,
-                "height_cm": 208,
-                "birthdate": "1988-09-29",
-                "position": "SF",
-                "jerseyNumber": 7,
-                "isAllStar": true,
-                "statistics": {
-                    "pointsPerGame": 28.2,
-                    "assistsPerGame": 5.8,
-                    "reboundsPerGame": 7.1
-                }
-            },
-            {
-                "name": "James Harden",
-                "age": 32,
-                "height_cm": 196,
-                "birthdate": "1989-08-26",
-                "position": "SG",
-                "jerseyNumber": 13,
-                "isAllStar": true,
-                "statistics": {
-                    "pointsPerGame": 24.6,
-                    "assistsPerGame": 10.7,
-                    "reboundsPerGame": 8.7
-                }
-            },
-            {
-                "name": "Kyrie Irving",
-                "age": 29,
-                "height_cm": 193,
-                "birthdate": "1992-03-23",
-                "position": "PG",
-                "jerseyNumber": 11,
-                "isAllStar": true,
-                "statistics": {
-                    "pointsPerGame": 27.3,
-                    "assistsPerGame": 6.5,
-                    "reboundsPerGame": 4.8
-                }
+            "2 Conference Titles",
+            "Division Titles: 6"
+          ],
+        "player": {
+            "name": "Kevin Durant",
+            "age": 33,
+            "height_cm": 208,
+            "birthdate": "1988-09-29",
+            "position": "SF",
+            "jerseyNumber": 7,
+            "isAllStar": true,
+            "statistics": {
+                "pointsPerGame": 28.2,
+                "assistsPerGame": 5.8,
+                "reboundsPerGame": 7.1
             }
-        ]
+        }
     },
     {
         "teamName": "Charlotte Hornets",
@@ -217,64 +86,24 @@
         "location": "Charlotte",
         "conference": "Este",
         "establishedYear": 1988,
-        "players": [
-            {
-                "name": "LaMelo Ball",
-                "age": 20,
-                "height_cm": 198,
-                "birthdate": "2001-08-22",
-                "position": "PG",
-                "jerseyNumber": 2,
-                "isAllStar": false,
-                "statistics": {
-                    "pointsPerGame": 20.1,
-                    "assistsPerGame": 7.6,
-                    "reboundsPerGame": 6.2
-                }
-            },
-            {
-                "name": "Gordon Hayward",
-                "age": 31,
-                "height_cm": 203,
-                "birthdate": "1990-03-23",
-                "position": "SF",
-                "jerseyNumber": 20,
-                "isAllStar": true,
-                "statistics": {
-                    "pointsPerGame": 19.6,
-                    "assistsPerGame": 4.1,
-                    "reboundsPerGame": 6.7
-                }
-            },
-            {
-                "name": "Terry Rozier",
-                "age": 27,
-                "height_cm": 188,
-                "birthdate": "1994-03-17",
-                "position": "PG",
-                "jerseyNumber": 3,
-                "isAllStar": false,
-                "statistics": {
-                    "pointsPerGame": 18.5,
-                    "assistsPerGame": 4.4,
-                    "reboundsPerGame": 4.7
-                }
-            },
-            {
-                "name": "Miles Bridges",
-                "age": 24,
-                "height_cm": 201,
-                "birthdate": "1998-03-21",
-                "position": "SF",
-                "jerseyNumber": 0,
-                "isAllStar": false,
-                "statistics": {
-                    "pointsPerGame": 19.8,
-                    "assistsPerGame": 2.8,
-                    "reboundsPerGame": 7.6
-                }
+        "achievements": [
+            "1 Conference Title (2001-2002)",
+            "6 Division Titles"
+        ],
+        "player": {
+            "name": "LaMelo Ball",
+            "age": 20,
+            "height_cm": 198,
+            "birthdate": "2001-08-22",
+            "position": "PG",
+            "jerseyNumber": 2,
+            "isAllStar": false,
+            "statistics": {
+                "pointsPerGame": 20.1,
+                "assistsPerGame": 7.6,
+                "reboundsPerGame": 6.2
             }
-        ]
+        }
     },
     {
         "teamName": "Chicago Bulls",
@@ -284,54 +113,24 @@
         "conference": "Este",
         "establishedYear": 1966,
         "achievements": [
-          "NBA Championships: 6",
-          "Conference Titles: 6",
-          "Division Titles: 9"
-        ],
-        "players": [
-            {
-                "name": "Zach LaVine",
-                "age": 26,
-                "height_cm": 196,
-                "birthdate": "1995-03-10",
-                "position": "SG",
-                "jerseyNumber": 8,
-                "isAllStar": true,
-                "statistics": {
-                    "pointsPerGame": 27.5,
-                    "assistsPerGame": 5.3,
-                    "reboundsPerGame": 5.2
-                }
-            },
-            {
-                "name": "Nikola Vučević",
-                "age": 31,
-                "height_cm": 211,
-                "birthdate": "1990-10-24",
-                "position": "C",
-                "jerseyNumber": 9,
-                "isAllStar": true,
-                "statistics": {
-                    "pointsPerGame": 22.8,
-                    "assistsPerGame": 4.2,
-                    "reboundsPerGame": 11.2
-                }
-            },
-            {
-                "name": "DeMar DeRozan",
-                "age": 32,
-                "height_cm": 201,
-                "birthdate": "1989-08-07",
-                "position": "SF",
-                "jerseyNumber": 11,
-                "isAllStar": true,
-                "statistics": {
-                    "pointsPerGame": 25.6,
-                    "assistsPerGame": 5.8,
-                    "reboundsPerGame": 5.4
-                }
+            "NBA Championships: 6",
+            "Conference Titles: 6",
+            "Division Titles: 9"
+          ],
+        "player": {
+            "name": "Michael Jordan",
+            "age": 58,
+            "height_cm": 198,
+            "birthdate": "1963-02-17",
+            "position": "SG",
+            "jerseyNumber": 23,
+            "isAllStar": true,
+            "statistics": {
+                "pointsPerGame": 30.1,
+                "assistsPerGame": 5.3,
+                "reboundsPerGame": 6.2
             }
-        ]
+        }
     },
     {
         "teamName": "Cleveland Cavaliers",
@@ -341,68 +140,24 @@
         "conference": "Este",
         "establishedYear": 1970,
         "achievements": [
-          "NBA Championship (2016)",
-          "4 Conference Titles",
-          "Division Titles: 7"
+            "NBA Championship (2016)",
+            "4 Conference Titles",
+            "7 Division Titles"
         ],
-        "players": [
-            {
-                "name": "Darius Garland",
-                "age": 22,
-                "height_cm": 188,
-                "birthdate": "2000-01-26",
-                "position": "PG",
-                "jerseyNumber": 10,
-                "isAllStar": false,
-                "statistics": {
-                    "pointsPerGame": 21.4,
-                    "assistsPerGame": 7.9,
-                    "reboundsPerGame": 3.8
-                }
-            },
-            {
-                "name": "Jarrett Allen",
-                "age": 23,
-                "height_cm": 211,
-                "birthdate": "1998-04-21",
-                "position": "C",
-                "jerseyNumber": 31,
-                "isAllStar": false,
-                "statistics": {
-                    "pointsPerGame": 13.2,
-                    "assistsPerGame": 1.7,
-                    "reboundsPerGame": 10.8
-                }
-            },
-            {
-                "name": "Evan Mobley",
-                "age": 20,
-                "height_cm": 211,
-                "birthdate": "2001-06-18",
-                "position": "PF",
-                "jerseyNumber": 4,
-                "isAllStar": false,
-                "statistics": {
-                    "pointsPerGame": 16.3,
-                    "assistsPerGame": 3.6,
-                    "reboundsPerGame": 8.2
-                }
-            },
-            {
-                "name": "Collin Sexton",
-                "age": 23,
-                "height_cm": 190,
-                "birthdate": "1999-01-04",
-                "position": "SG",
-                "jerseyNumber": 2,
-                "isAllStar": false,
-                "statistics": {
-                    "pointsPerGame": 22.9,
-                    "assistsPerGame": 4.2,
-                    "reboundsPerGame": 3.2
-                }
+        "player": {
+            "name": "Darius Garland",
+            "age": 22,
+            "height_cm": 188,
+            "birthdate": "2000-01-26",
+            "position": "PG",
+            "jerseyNumber": 10,
+            "isAllStar": false,
+            "statistics": {
+                "pointsPerGame": 21.4,
+                "assistsPerGame": 7.9,
+                "reboundsPerGame": 3.8
             }
-        ]
+        }
     },
     {
         "teamName": "Dallas Mavericks",
@@ -411,65 +166,21 @@
         "location": "Dallas",
         "conference": "Oeste",
         "establishedYear": 1980,
-        "players": [
-            {
-                "name": "Luka Dončić",
-                "age": 22,
-                "height_cm": 201,
-                "birthdate": "1999-02-28",
-                "position": "PG",
-                "jerseyNumber": 77,
-                "isAllStar": true,
-                "statistics": {
-                    "pointsPerGame": 28.3,
-                    "assistsPerGame": 8.8,
-                    "reboundsPerGame": 8.2
-                }
-            },
-            {
-                "name": "Kristaps Porziņģis",
-                "age": 26,
-                "height_cm": 221,
-                "birthdate": "1995-08-02",
-                "position": "PF",
-                "jerseyNumber": 6,
-                "isAllStar": false,
-                "statistics": {
-                    "pointsPerGame": 19.8,
-                    "assistsPerGame": 1.5,
-                    "reboundsPerGame": 8.1
-                }
-            },
-            {
-                "name": "Tim Hardaway Jr.",
-                "age": 29,
-                "height_cm": 198,
-                "birthdate": "1992-03-16",
-                "position": "SG",
-                "jerseyNumber": 11,
-                "isAllStar": false,
-                "statistics": {
-                    "pointsPerGame": 15.8,
-                    "assistsPerGame": 1.9,
-                    "reboundsPerGame": 4.1
-                }
-            },
-            {
-                "name": "Jalen Brunson",
-                "age": 25,
-                "height_cm": 190,
-                "birthdate": "1996-08-31",
-                "position": "PG",
-                "jerseyNumber": 13,
-                "isAllStar": false,
-                "statistics": {
-                    "pointsPerGame": 12.6,
-                    "assistsPerGame": 4.7,
-                    "reboundsPerGame": 3.5
-                }
+        "player": {
+            "name": "Luka Dončić",
+            "age": 22,
+            "height_cm": 201,
+            "birthdate": "1999-02-28",
+            "position": "PG",
+            "jerseyNumber": 77,
+            "isAllStar": true,
+            "statistics": {
+                "pointsPerGame": 28.3,
+                "assistsPerGame": 8.8,
+                "reboundsPerGame": 8.2
             }
-        ]
-    },
+        }
+    },    
     {
         "teamName": "Denver Nuggets",
         "teamId": 8,
@@ -477,65 +188,21 @@
         "location": "Denver",
         "conference": "Oeste",
         "establishedYear": 1967,
-        "players": [
-            {
-                "name": "Nikola Jokić",
-                "age": 26,
-                "height_cm": 211,
-                "birthdate": "1995-02-19",
-                "position": "C",
-                "jerseyNumber": 15,
-                "isAllStar": true,
-                "statistics": {
-                    "pointsPerGame": 25.9,
-                    "assistsPerGame": 7.5,
-                    "reboundsPerGame": 13.5
-                }
-            },
-            {
-                "name": "Jamal Murray",
-                "age": 24,
-                "height_cm": 193,
-                "birthdate": "1997-02-23",
-                "position": "PG",
-                "jerseyNumber": 27,
-                "isAllStar": true,
-                "statistics": {
-                    "pointsPerGame": 21.2,
-                    "assistsPerGame": 5.2,
-                    "reboundsPerGame": 4.0
-                }
-            },
-            {
-                "name": "Michael Porter Jr.",
-                "age": 23,
-                "height_cm": 203,
-                "birthdate": "1998-06-29",
-                "position": "SF",
-                "jerseyNumber": 1,
-                "isAllStar": false,
-                "statistics": {
-                    "pointsPerGame": 18.7,
-                    "assistsPerGame": 1.5,
-                    "reboundsPerGame": 6.9
-                }
-            },
-            {
-                "name": "Aaron Gordon",
-                "age": 26,
-                "height_cm": 203,
-                "birthdate": "1995-09-16",
-                "position": "PF",
-                "jerseyNumber": 50,
-                "isAllStar": false,
-                "statistics": {
-                    "pointsPerGame": 12.4,
-                    "assistsPerGame": 3.8,
-                    "reboundsPerGame": 6.1
-                }
+        "player": {
+            "name": "Nikola Jokić",
+            "age": 26,
+            "height_cm": 211,
+            "birthdate": "1995-02-19",
+            "position": "C",
+            "jerseyNumber": 15,
+            "isAllStar": true,
+            "statistics": {
+                "pointsPerGame": 25.9,
+                "assistsPerGame": 7.5,
+                "reboundsPerGame": 13.5
             }
-        ]
-    },
+        }
+    },    
     {
         "teamName": "Detroit Pistons",
         "teamId": 9,
@@ -544,69 +211,25 @@
         "conference": "Este",
         "establishedYear": 1941,
         "achievements": [
-          "NBA Championships: 3",
-          "Conference Titles: 7",
-          "Division Titles: 9"
+            "3 NBA Championships",
+            "7 Conference Titles",
+            "9 Division Titles"
         ],
-        "players": [
-            {
-                "name": "Cade Cunningham",
-                "age": 20,
-                "height_cm": 201,
-                "birthdate": "2001-09-25",
-                "position": "PG",
-                "jerseyNumber": 2,
-                "isAllStar": false,
-                "statistics": {
-                    "pointsPerGame": 19.3,
-                    "assistsPerGame": 6.7,
-                    "reboundsPerGame": 5.2
-                }
-            },
-            {
-                "name": "Jerami Grant",
-                "age": 27,
-                "height_cm": 203,
-                "birthdate": "1994-03-12",
-                "position": "SF",
-                "jerseyNumber": 9,
-                "isAllStar": false,
-                "statistics": {
-                    "pointsPerGame": 23.4,
-                    "assistsPerGame": 3.2,
-                    "reboundsPerGame": 4.8
-                }
-            },
-            {
-                "name": "Saddiq Bey",
-                "age": 22,
-                "height_cm": 203,
-                "birthdate": "1999-04-09",
-                "position": "SF",
-                "jerseyNumber": 41,
-                "isAllStar": false,
-                "statistics": {
-                    "pointsPerGame": 17.5,
-                    "assistsPerGame": 2.3,
-                    "reboundsPerGame": 5.2
-                }
-            },
-            {
-                "name": "Isaiah Stewart",
-                "age": 20,
-                "height_cm": 208,
-                "birthdate": "2001-05-22",
-                "position": "C",
-                "jerseyNumber": 28,
-                "isAllStar": false,
-                "statistics": {
-                    "pointsPerGame": 10.7,
-                    "assistsPerGame": 1.1,
-                    "reboundsPerGame": 8.1
-                }
+        "player": {
+            "name": "Cade Cunningham",
+            "age": 20,
+            "height_cm": 201,
+            "birthdate": "2001-09-25",
+            "position": "PG",
+            "jerseyNumber": 2,
+            "isAllStar": false,
+            "statistics": {
+                "pointsPerGame": 19.3,
+                "assistsPerGame": 6.7,
+                "reboundsPerGame": 5.2
             }
-        ]
-    },
+        }
+    },    
     {
         "teamName": "Golden State Warriors",
         "teamId": 10,
@@ -614,56 +237,26 @@
         "location": "Golden State",
         "conference": "Oeste",
         "establishedYear": 1946,
-        "achievements": [      
-          "NBA Championships: 6",
-          "11 Conference Titles",
-          "Division Titles: 6"
+        "achievements": [
+            "6 NBA Championships",
+            "11 Conference Titles",
+            "6 Division Titles"
         ],
-        "players": [
-            {
-                "name": "Stephen Curry",
-                "age": 33,
-                "height_cm": 190,
-                "birthdate": "1988-03-14",
-                "position": "PG",
-                "jerseyNumber": 30,
-                "isAllStar": true,
-                "statistics": {
-                    "pointsPerGame": 29.7,
-                    "assistsPerGame": 6.3,
-                    "reboundsPerGame": 5.6
-                }
-            },
-            {
-                "name": "Klay Thompson",
-                "age": 32,
-                "height_cm": 201,
-                "birthdate": "1990-02-08",
-                "position": "SG",
-                "jerseyNumber": 11,
-                "isAllStar": true,
-                "statistics": {
-                    "pointsPerGame": 19.2,
-                    "assistsPerGame": 2.8,
-                    "reboundsPerGame": 3.6
-                }
-            },
-            {
-                "name": "Draymond Green",
-                "age": 31,
-                "height_cm": 201,
-                "birthdate": "1990-03-04",
-                "position": "PF",
-                "jerseyNumber": 23,
-                "isAllStar": true,
-                "statistics": {
-                    "pointsPerGame": 7.9,
-                    "assistsPerGame": 8.2,
-                    "reboundsPerGame": 7.3
-                }
+        "player": {
+            "name": "Stephen Curry",
+            "age": 33,
+            "height_cm": 190,
+            "birthdate": "1988-03-14",
+            "position": "PG",
+            "jerseyNumber": 30,
+            "isAllStar": true,
+            "statistics": {
+                "pointsPerGame": 29.7,
+                "assistsPerGame": 6.3,
+                "reboundsPerGame": 5.6
             }
-        ]
-    },
+        }
+    },    
     {
         "teamName": "Houston Rockets",
         "teamId": 11,
@@ -671,65 +264,21 @@
         "location": "Houston",
         "conference": "Oeste",
         "establishedYear": 1967,
-        "players": [
-            {
-                "name": "Jalen Green",
-                "age": 20,
-                "height_cm": 196,
-                "birthdate": "2002-02-09",
-                "position": "SG",
-                "jerseyNumber": 0,
-                "isAllStar": false,
-                "statistics": {
-                    "pointsPerGame": 17.9,
-                    "assistsPerGame": 2.4,
-                    "reboundsPerGame": 4.5
-                }
-            },
-            {
-                "name": "Christian Wood",
-                "age": 26,
-                "height_cm": 211,
-                "birthdate": "1995-09-27",
-                "position": "PF",
-                "jerseyNumber": 35,
-                "isAllStar": false,
-                "statistics": {
-                    "pointsPerGame": 20.9,
-                    "assistsPerGame": 1.9,
-                    "reboundsPerGame": 11.1
-                }
-            },
-            {
-                "name": "Kevin Porter Jr.",
-                "age": 21,
-                "height_cm": 198,
-                "birthdate": "2000-05-04",
-                "position": "PG",
-                "jerseyNumber": 3,
-                "isAllStar": false,
-                "statistics": {
-                    "pointsPerGame": 15.6,
-                    "assistsPerGame": 6.4,
-                    "reboundsPerGame": 4.2
-                }
-            },
-            {
-                "name": "Jae'Sean Tate",
-                "age": 26,
-                "height_cm": 198,
-                "birthdate": "1995-10-28",
-                "position": "SF",
-                "jerseyNumber": 8,
-                "isAllStar": false,
-                "statistics": {
-                    "pointsPerGame": 10.1,
-                    "assistsPerGame": 2.7,
-                    "reboundsPerGame": 5.4
-                }
+        "player": {
+            "name": "Jalen Green",
+            "age": 20,
+            "height_cm": 196,
+            "birthdate": "2002-02-09",
+            "position": "SG",
+            "jerseyNumber": 0,
+            "isAllStar": false,
+            "statistics": {
+                "pointsPerGame": 17.9,
+                "assistsPerGame": 2.4,
+                "reboundsPerGame": 4.5
             }
-        ]
-    },
+        }
+    },      
     {
         "teamName": "Indiana Pacers",
         "teamId": 12,
@@ -737,65 +286,21 @@
         "location": "Indiana",
         "conference": "Este",
         "establishedYear": 1967,
-        "players": [
-            {
-                "name": "Domantas Sabonis",
-                "age": 25,
-                "height_cm": 208,
-                "birthdate": "1996-05-03",
-                "position": "PF",
-                "jerseyNumber": 11,
-                "isAllStar": true,
-                "statistics": {
-                    "pointsPerGame": 19.8,
-                    "assistsPerGame": 6.7,
-                    "reboundsPerGame": 13.1
-                }
-            },
-            {
-                "name": "Myles Turner",
-                "age": 25,
-                "height_cm": 211,
-                "birthdate": "1996-03-24",
-                "position": "C",
-                "jerseyNumber": 33,
-                "isAllStar": false,
-                "statistics": {
-                    "pointsPerGame": 12.7,
-                    "assistsPerGame": 1.5,
-                    "reboundsPerGame": 6.7
-                }
-            },
-            {
-                "name": "Caris LeVert",
-                "age": 27,
-                "height_cm": 198,
-                "birthdate": "1994-08-25",
-                "position": "SG",
-                "jerseyNumber": 22,
-                "isAllStar": false,
-                "statistics": {
-                    "pointsPerGame": 19.0,
-                    "assistsPerGame": 4.2,
-                    "reboundsPerGame": 4.9
-                }
-            },
-            {
-                "name": "Malcolm Brogdon",
-                "age": 29,
-                "height_cm": 193,
-                "birthdate": "1992-12-11",
-                "position": "PG",
-                "jerseyNumber": 7,
-                "isAllStar": false,
-                "statistics": {
-                    "pointsPerGame": 17.2,
-                    "assistsPerGame": 7.3,
-                    "reboundsPerGame": 4.5
-                }
+        "player": {
+            "name": "Domantas Sabonis",
+            "age": 25,
+            "height_cm": 208,
+            "birthdate": "1996-05-03",
+            "position": "PF",
+            "jerseyNumber": 11,
+            "isAllStar": true,
+            "statistics": {
+                "pointsPerGame": 19.8,
+                "assistsPerGame": 6.7,
+                "reboundsPerGame": 13.1
             }
-        ]
-    },
+        }
+    },    
     {
         "teamName": "LA Clippers",
         "teamId": 13,
@@ -803,51 +308,21 @@
         "location": "Los Angeles",
         "conference": "Oeste",
         "establishedYear": 1970,
-        "players": [
-            {
-                "name": "Paul George",
-                "age": 32,
-                "height_cm": 206,
-                "birthdate": "1990-05-02",
-                "position": "SF",
-                "jerseyNumber": 13,
-                "isAllStar": true,
-                "statistics": {
-                    "pointsPerGame": 25.9,
-                    "assistsPerGame": 5.4,
-                    "reboundsPerGame": 6.5
-                }
-            },
-            {
-                "name": "Kawhi Leonard",
-                "age": 30,
-                "height_cm": 201,
-                "birthdate": "1991-06-29",
-                "position": "SF",
-                "jerseyNumber": 2,
-                "isAllStar": true,
-                "statistics": {
-                    "pointsPerGame": 24.8,
-                    "assistsPerGame": 4.6,
-                    "reboundsPerGame": 6.5
-                }
-            },
-            {
-                "name": "Reggie Jackson",
-                "age": 31,
-                "height_cm": 191,
-                "birthdate": "1990-04-16",
-                "position": "PG",
-                "jerseyNumber": 1,
-                "isAllStar": false,
-                "statistics": {
-                    "pointsPerGame": 17.8,
-                    "assistsPerGame": 5.3,
-                    "reboundsPerGame": 4.1
-                }
+        "player": {
+            "name": "Paul George",
+            "age": 32,
+            "height_cm": 206,
+            "birthdate": "1990-05-02",
+            "position": "SF",
+            "jerseyNumber": 13,
+            "isAllStar": true,
+            "statistics": {
+                "pointsPerGame": 25.9,
+                "assistsPerGame": 5.4,
+                "reboundsPerGame": 6.5
             }
-        ]
-    },
+        }
+    },    
     {
         "teamName": "Los Angeles Lakers",
         "teamId": 14,
@@ -855,56 +330,26 @@
         "location": "Los Angeles",
         "conference": "Oeste",
         "establishedYear": 1947,
-        "achievements": [      
-          "NBA Championships: 17",
-          "32 Conference Titles",
-          "Division Titles: 24"
+        "achievements": [
+            "NBA Championships: 17",
+            "32 Conference Titles",
+            "Division Titles: 24"
         ],
-        "players": [
-            {
-                "name": "LeBron James",
-                "age": 37,
-                "height_cm": 206,
-                "birthdate": "1984-12-30",
-                "position": "SF",
-                "jerseyNumber": 6,
-                "isAllStar": true,
-                "statistics": {
-                    "pointsPerGame": 28.6,
-                    "assistsPerGame": 7.8,
-                    "reboundsPerGame": 8.0
-                }
-            },
-            {
-                "name": "Anthony Davis",
-                "age": 29,
-                "height_cm": 208,
-                "birthdate": "1993-03-11",
-                "position": "PF",
-                "jerseyNumber": 3,
-                "isAllStar": true,
-                "statistics": {
-                    "pointsPerGame": 23.9,
-                    "assistsPerGame": 3.1,
-                    "reboundsPerGame": 9.7
-                }
-            },
-            {
-                "name": "Russell Westbrook",
-                "age": 34,
-                "height_cm": 191,
-                "birthdate": "1988-11-12",
-                "position": "PG",
-                "jerseyNumber": 0,
-                "isAllStar": true,
-                "statistics": {
-                    "pointsPerGame": 21.4,
-                    "assistsPerGame": 9.8,
-                    "reboundsPerGame": 8.0
-                }
+        "player": {
+            "name": "LeBron James",
+            "age": 37,
+            "height_cm": 206,
+            "birthdate": "1984-12-30",
+            "position": "SF",
+            "jerseyNumber": 6,
+            "isAllStar": true,
+            "statistics": {
+                "pointsPerGame": 28.6,
+                "assistsPerGame": 7.8,
+                "reboundsPerGame": 8.0
             }
-        ]
-    },
+        }
+    },    
     {
         "teamName": "Memphis Grizzlies",
         "teamId": 15,
@@ -912,51 +357,21 @@
         "location": "Memphis",
         "conference": "Oeste",
         "establishedYear": 1995,
-        "players": [
-            {
-                "name": "Ja Morant",
-                "age": 22,
-                "height_cm": 191,
-                "birthdate": "1999-08-10",
-                "position": "PG",
-                "jerseyNumber": 12,
-                "isAllStar": true,
-                "statistics": {
-                    "pointsPerGame": 26.4,
-                    "assistsPerGame": 7.3,
-                    "reboundsPerGame": 4.9
-                }
-            },
-            {
-                "name": "Jaren Jackson Jr.",
-                "age": 22,
-                "height_cm": 211,
-                "birthdate": "1999-09-15",
-                "position": "PF",
-                "jerseyNumber": 13,
-                "isAllStar": false,
-                "statistics": {
-                    "pointsPerGame": 16.7,
-                    "assistsPerGame": 1.5,
-                    "reboundsPerGame": 6.9
-                }
-            },
-            {
-                "name": "Dillon Brooks",
-                "age": 26,
-                "height_cm": 196,
-                "birthdate": "1996-01-22",
-                "position": "SG",
-                "jerseyNumber": 24,
-                "isAllStar": false,
-                "statistics": {
-                    "pointsPerGame": 18.4,
-                    "assistsPerGame": 2.3,
-                    "reboundsPerGame": 4.7
-                }
+        "player": {
+            "name": "Ja Morant",
+            "age": 22,
+            "height_cm": 191,
+            "birthdate": "1999-08-10",
+            "position": "PG",
+            "jerseyNumber": 12,
+            "isAllStar": true,
+            "statistics": {
+                "pointsPerGame": 26.4,
+                "assistsPerGame": 7.3,
+                "reboundsPerGame": 4.9
             }
-        ]
-    },
+        }
+    },    
     {
         "teamName": "Miami Heat",
         "teamId": 16,
@@ -964,70 +379,26 @@
         "location": "Miami",
         "conference": "Este",
         "establishedYear": 1988,
-        "achievements": [      
-          "NBA Championships: 3",
-          "6 Conference Titles",
-          "Division Titles: 13"
+        "achievements": [
+            "NBA Championships: 3",
+            "6 Conference Titles",
+            "Division Titles: 13"
         ],
-        "players": [
-            {
-                "name": "Jimmy Butler",
-                "age": 32,
-                "height_cm": 201,
-                "birthdate": "1989-09-14",
-                "position": "SF",
-                "jerseyNumber": 22,
-                "isAllStar": true,
-                "statistics": {
-                    "pointsPerGame": 23.4,
-                    "assistsPerGame": 5.8,
-                    "reboundsPerGame": 6.6
-                }
-            },
-            {
-                "name": "Bam Adebayo",
-                "age": 24,
-                "height_cm": 208,
-                "birthdate": "1997-07-18",
-                "position": "C",
-                "jerseyNumber": 13,
-                "isAllStar": true,
-                "statistics": {
-                    "pointsPerGame": 20.1,
-                    "assistsPerGame": 5.3,
-                    "reboundsPerGame": 10.2
-                }
-            },
-            {
-                "name": "Kyle Lowry",
-                "age": 36,
-                "height_cm": 183,
-                "birthdate": "1986-03-25",
-                "position": "PG",
-                "jerseyNumber": 7,
-                "isAllStar": true,
-                "statistics": {
-                    "pointsPerGame": 15.5,
-                    "assistsPerGame": 8.9,
-                    "reboundsPerGame": 5.1
-                }
-            },
-            {
-                "name": "Tyler Herro",
-                "age": 22,
-                "height_cm": 198,
-                "birthdate": "2000-01-20",
-                "position": "SG",
-                "jerseyNumber": 14,
-                "isAllStar": false,
-                "statistics": {
-                    "pointsPerGame": 19.3,
-                    "assistsPerGame": 4.1,
-                    "reboundsPerGame": 5.0
-                }
+        "player": {
+            "name": "Jimmy Butler",
+            "age": 32,
+            "height_cm": 201,
+            "birthdate": "1989-09-14",
+            "position": "SF",
+            "jerseyNumber": 22,
+            "isAllStar": true,
+            "statistics": {
+                "pointsPerGame": 23.4,
+                "assistsPerGame": 5.8,
+                "reboundsPerGame": 6.6
             }
-        ]
-    },
+        }
+    },    
     {
         "teamName": "Milwaukee Bucks",
         "teamId": 17,
@@ -1035,65 +406,21 @@
         "location": "Milwaukee",
         "conference": "Este",
         "establishedYear": 1968,
-        "players": [
-            {
-                "name": "Giannis Antetokounmpo",
-                "age": 27,
-                "height_cm": 211,
-                "birthdate": "1994-12-06",
-                "position": "PF",
-                "jerseyNumber": 34,
-                "isAllStar": true,
-                "statistics": {
-                    "pointsPerGame": 29.3,
-                    "assistsPerGame": 6.1,
-                    "reboundsPerGame": 13.8
-                }
-            },
-            {
-                "name": "Khris Middleton",
-                "age": 30,
-                "height_cm": 201,
-                "birthdate": "1991-08-12",
-                "position": "SF",
-                "jerseyNumber": 22,
-                "isAllStar": true,
-                "statistics": {
-                    "pointsPerGame": 22.6,
-                    "assistsPerGame": 5.7,
-                    "reboundsPerGame": 6.3
-                }
-            },
-            {
-                "name": "Jrue Holiday",
-                "age": 31,
-                "height_cm": 193,
-                "birthdate": "1990-06-12",
-                "position": "PG",
-                "jerseyNumber": 21,
-                "isAllStar": true,
-                "statistics": {
-                    "pointsPerGame": 18.9,
-                    "assistsPerGame": 7.3,
-                    "reboundsPerGame": 5.4
-                }
-            },
-            {
-                "name": "Brook Lopez",
-                "age": 34,
-                "height_cm": 213,
-                "birthdate": "1988-04-01",
-                "position": "C",
-                "jerseyNumber": 11,
-                "isAllStar": false,
-                "statistics": {
-                    "pointsPerGame": 10.4,
-                    "assistsPerGame": 1.5,
-                    "reboundsPerGame": 4.5
-                }
+        "player": {
+            "name": "Giannis Antetokounmpo",
+            "age": 27,
+            "height_cm": 211,
+            "birthdate": "1994-12-06",
+            "position": "PF",
+            "jerseyNumber": 34,
+            "isAllStar": true,
+            "statistics": {
+                "pointsPerGame": 29.3,
+                "assistsPerGame": 6.1,
+                "reboundsPerGame": 13.8
             }
-        ]
-    },
+        }
+    },    
     {
         "teamName": "Minnesota Timberwolves",
         "teamId": 18,
@@ -1101,51 +428,21 @@
         "location": "Minnesota",
         "conference": "Oeste",
         "establishedYear": 1989,
-        "players": [
-            {
-                "name": "Karl-Anthony Towns",
-                "age": 26,
-                "height_cm": 213,
-                "birthdate": "1995-11-15",
-                "position": "C",
-                "jerseyNumber": 32,
-                "isAllStar": true,
-                "statistics": {
-                    "pointsPerGame": 25.7,
-                    "assistsPerGame": 4.5,
-                    "reboundsPerGame": 10.6
-                }
-            },
-            {
-                "name": "Anthony Edwards",
-                "age": 20,
-                "height_cm": 196,
-                "birthdate": "2001-08-05",
-                "position": "SG",
-                "jerseyNumber": 1,
-                "isAllStar": false,
-                "statistics": {
-                    "pointsPerGame": 21.3,
-                    "assistsPerGame": 3.2,
-                    "reboundsPerGame": 5.8
-                }
-            },
-            {
-                "name": "D'Angelo Russell",
-                "age": 26,
-                "height_cm": 193,
-                "birthdate": "1996-02-23",
-                "position": "PG",
-                "jerseyNumber": 0,
-                "isAllStar": false,
-                "statistics": {
-                    "pointsPerGame": 19.8,
-                    "assistsPerGame": 6.4,
-                    "reboundsPerGame": 4.1
-                }
+        "player": {
+            "name": "Karl-Anthony Towns",
+            "age": 26,
+            "height_cm": 213,
+            "birthdate": "1995-11-15",
+            "position": "C",
+            "jerseyNumber": 32,
+            "isAllStar": true,
+            "statistics": {
+                "pointsPerGame": 25.7,
+                "assistsPerGame": 4.5,
+                "reboundsPerGame": 10.6
             }
-        ]
-    },
+        }
+    },    
     {
         "teamName": "New Orleans Pelicans",
         "teamId": 19,
@@ -1153,65 +450,21 @@
         "location": "New Orleans",
         "conference": "Oeste",
         "establishedYear": 2002,
-        "players": [
-            {
-                "name": "Zion Williamson",
-                "age": 21,
-                "height_cm": 201,
-                "birthdate": "2000-07-06",
-                "position": "PF",
-                "jerseyNumber": 1,
-                "isAllStar": true,
-                "statistics": {
-                    "pointsPerGame": 27.0,
-                    "assistsPerGame": 4.3,
-                    "reboundsPerGame": 8.2
-                }
-            },
-            {
-                "name": "Brandon Ingram",
-                "age": 24,
-                "height_cm": 203,
-                "birthdate": "1997-09-02",
-                "position": "SF",
-                "jerseyNumber": 14,
-                "isAllStar": true,
-                "statistics": {
-                    "pointsPerGame": 24.7,
-                    "assistsPerGame": 5.2,
-                    "reboundsPerGame": 6.8
-                }
-            },
-            {
-                "name": "Jonas Valančiūnas",
-                "age": 29,
-                "height_cm": 211,
-                "birthdate": "1992-05-06",
-                "position": "C",
-                "jerseyNumber": 17,
-                "isAllStar": false,
-                "statistics": {
-                    "pointsPerGame": 17.9,
-                    "assistsPerGame": 2.2,
-                    "reboundsPerGame": 12.4
-                }
-            },
-            {
-                "name": "Devonte' Graham",
-                "age": 26,
-                "height_cm": 188,
-                "birthdate": "1995-02-22",
-                "position": "PG",
-                "jerseyNumber": 4,
-                "isAllStar": false,
-                "statistics": {
-                    "pointsPerGame": 14.3,
-                    "assistsPerGame": 6.7,
-                    "reboundsPerGame": 2.9
-                }
+        "player": {
+            "name": "Zion Williamson",
+            "age": 21,
+            "height_cm": 201,
+            "birthdate": "2000-07-06",
+            "position": "PF",
+            "jerseyNumber": 1,
+            "isAllStar": true,
+            "statistics": {
+                "pointsPerGame": 27.0,
+                "assistsPerGame": 4.3,
+                "reboundsPerGame": 8.2
             }
-        ]
-    },
+        }
+    },    
     {
         "teamName": "New York Knicks",
         "teamId": 20,
@@ -1219,65 +472,21 @@
         "location": "New York",
         "conference": "Este",
         "establishedYear": 1946,
-        "players": [
-            {
-                "name": "Julius Randle",
-                "age": 27,
-                "height_cm": 203,
-                "birthdate": "1994-11-29",
-                "position": "PF",
-                "jerseyNumber": 30,
-                "isAllStar": true,
-                "statistics": {
-                    "pointsPerGame": 23.2,
-                    "assistsPerGame": 6.4,
-                    "reboundsPerGame": 10.3
-                }
-            },
-            {
-                "name": "RJ Barrett",
-                "age": 21,
-                "height_cm": 198,
-                "birthdate": "2000-06-14",
-                "position": "SG",
-                "jerseyNumber": 9,
-                "isAllStar": false,
-                "statistics": {
-                    "pointsPerGame": 18.1,
-                    "assistsPerGame": 3.9,
-                    "reboundsPerGame": 5.7
-                }
-            },
-            {
-                "name": "Evan Fournier",
-                "age": 29,
-                "height_cm": 201,
-                "birthdate": "1992-10-29",
-                "position": "SF",
-                "jerseyNumber": 10,
-                "isAllStar": false,
-                "statistics": {
-                    "pointsPerGame": 15.3,
-                    "assistsPerGame": 3.2,
-                    "reboundsPerGame": 3.5
-                }
-            },
-            {
-                "name": "Kemba Walker",
-                "age": 31,
-                "height_cm": 183,
-                "birthdate": "1990-05-08",
-                "position": "PG",
-                "jerseyNumber": 8,
-                "isAllStar": true,
-                "statistics": {
-                    "pointsPerGame": 12.6,
-                    "assistsPerGame": 5.2,
-                    "reboundsPerGame": 3.4
-                }
+        "player": {
+            "name": "Kemba Walker",
+            "age": 31,
+            "height_cm": 183,
+            "birthdate": "1990-05-08",
+            "position": "PG",
+            "jerseyNumber": 8,
+            "isAllStar": true,
+            "statistics": {
+                "pointsPerGame": 12.6,
+                "assistsPerGame": 5.2,
+                "reboundsPerGame": 3.4
             }
-        ]
-    },
+        }
+    },    
     {
         "teamName": "Oklahoma City Thunder",
         "teamId": 21,
@@ -1285,51 +494,21 @@
         "location": "Oklahoma City",
         "conference": "Oeste",
         "establishedYear": 1967,
-        "players": [
-            {
-                "name": "Shai Gilgeous-Alexander",
-                "age": 23,
-                "height_cm": 198,
-                "birthdate": "1998-07-12",
-                "position": "SG",
-                "jerseyNumber": 2,
-                "isAllStar": false,
-                "statistics": {
-                    "pointsPerGame": 23.7,
-                    "assistsPerGame": 5.3,
-                    "reboundsPerGame": 5.1
-                }
-            },
-            {
-                "name": "Josh Giddey",
-                "age": 19,
-                "height_cm": 201,
-                "birthdate": "2002-10-10",
-                "position": "SG",
-                "jerseyNumber": 3,
-                "isAllStar": false,
-                "statistics": {
-                    "pointsPerGame": 11.4,
-                    "assistsPerGame": 7.5,
-                    "reboundsPerGame": 6.8
-                }
-            },
-            {
-                "name": "Darius Bazley",
-                "age": 21,
-                "height_cm": 206,
-                "birthdate": "2000-06-12",
-                "position": "PF",
-                "jerseyNumber": 7,
-                "isAllStar": false,
-                "statistics": {
-                    "pointsPerGame": 12.3,
-                    "assistsPerGame": 2.1,
-                    "reboundsPerGame": 6.5
-                }
+        "player": {
+            "name": "Shai Gilgeous-Alexander",
+            "age": 23,
+            "height_cm": 198,
+            "birthdate": "1998-07-12",
+            "position": "SG",
+            "jerseyNumber": 2,
+            "isAllStar": false,
+            "statistics": {
+                "pointsPerGame": 23.7,
+                "assistsPerGame": 5.3,
+                "reboundsPerGame": 5.1
             }
-        ]
-    },
+        }
+    },    
     {
         "teamName": "Orlando Magic",
         "teamId": 22,
@@ -1337,51 +516,21 @@
         "location": "Orlando",
         "conference": "Este",
         "establishedYear": 1989,
-        "players": [
-            {
-                "name": "Markelle Fultz",
-                "age": 23,
-                "height_cm": 193,
-                "birthdate": "1998-05-29",
-                "position": "PG",
-                "jerseyNumber": 20,
-                "isAllStar": false,
-                "statistics": {
-                    "pointsPerGame": 11.6,
-                    "assistsPerGame": 4.8,
-                    "reboundsPerGame": 3.2
-                }
-            },
-            {
-                "name": "Jonathan Isaac",
-                "age": 24,
-                "height_cm": 208,
-                "birthdate": "1997-10-03",
-                "position": "PF",
-                "jerseyNumber": 1,
-                "isAllStar": false,
-                "statistics": {
-                    "pointsPerGame": 8.2,
-                    "assistsPerGame": 1.3,
-                    "reboundsPerGame": 6.0
-                }
-            },
-            {
-                "name": "Jalen Suggs",
-                "age": 21,
-                "height_cm": 193,
-                "birthdate": "2001-06-03",
-                "position": "PG",
-                "jerseyNumber": 4,
-                "isAllStar": false,
-                "statistics": {
-                    "pointsPerGame": 13.5,
-                    "assistsPerGame": 3.9,
-                    "reboundsPerGame": 3.8
-                }
+        "player": {
+            "name": "Markelle Fultz",
+            "age": 23,
+            "height_cm": 193,
+            "birthdate": "1998-05-29",
+            "position": "PG",
+            "jerseyNumber": 20,
+            "isAllStar": false,
+            "statistics": {
+                "pointsPerGame": 11.6,
+                "assistsPerGame": 4.8,
+                "reboundsPerGame": 3.2
             }
-        ]
-    },
+        }
+    },    
     {
         "teamName": "Philadelphia 76ers",
         "teamId": 23,
@@ -1389,51 +538,21 @@
         "location": "Philadelphia",
         "conference": "Este",
         "establishedYear": 1949,
-        "players": [
-            {
-                "name": "Joel Embiid",
-                "age": 28,
-                "height_cm": 213,
-                "birthdate": "1994-03-16",
-                "position": "C",
-                "jerseyNumber": 21,
-                "isAllStar": true,
-                "statistics": {
-                    "pointsPerGame": 29.8,
-                    "assistsPerGame": 4.7,
-                    "reboundsPerGame": 11.4
-                }
-            },
-            {
-                "name": "James Harden",
-                "age": 33,
-                "height_cm": 196,
-                "birthdate": "1989-08-26",
-                "position": "SG",
-                "jerseyNumber": 1,
-                "isAllStar": true,
-                "statistics": {
-                    "pointsPerGame": 23.4,
-                    "assistsPerGame": 11.2,
-                    "reboundsPerGame": 8.1
-                }
-            },
-            {
-                "name": "Tobias Harris",
-                "age": 30,
-                "height_cm": 206,
-                "birthdate": "1992-07-15",
-                "position": "PF",
-                "jerseyNumber": 12,
-                "isAllStar": false,
-                "statistics": {
-                    "pointsPerGame": 18.7,
-                    "assistsPerGame": 4.0,
-                    "reboundsPerGame": 7.5
-                }
+        "player": {
+            "name": "James Harden",
+            "age": 33,
+            "height_cm": 196,
+            "birthdate": "1989-08-26",
+            "position": "SG",
+            "jerseyNumber": 1,
+            "isAllStar": true,
+            "statistics": {
+                "pointsPerGame": 23.4,
+                "assistsPerGame": 11.2,
+                "reboundsPerGame": 8.1
             }
-        ]
-    },
+        }
+    },    
     {
         "teamName": "Phoenix Suns",
         "teamId": 24,
@@ -1441,50 +560,20 @@
         "location": "Phoenix",
         "conference": "Oeste",
         "establishedYear": 1968,
-        "players": [
-            {
-                "name": "Devin Booker",
-                "age": 25,
-                "height_cm": 198,
-                "birthdate": "1996-10-30",
-                "position": "SG",
-                "jerseyNumber": 1,
-                "isAllStar": true,
-                "statistics": {
-                    "pointsPerGame": 27.9,
-                    "assistsPerGame": 6.5,
-                    "reboundsPerGame": 4.8
-                }
-            },
-            {
-                "name": "Chris Paul",
-                "age": 37,
-                "height_cm": 183,
-                "birthdate": "1985-05-06",
-                "position": "PG",
-                "jerseyNumber": 3,
-                "isAllStar": true,
-                "statistics": {
-                    "pointsPerGame": 14.7,
-                    "assistsPerGame": 10.2,
-                    "reboundsPerGame": 4.0
-                }
-            },
-            {
-                "name": "Deandre Ayton",
-                "age": 23,
-                "height_cm": 213,
-                "birthdate": "1998-07-23",
-                "position": "C",
-                "jerseyNumber": 22,
-                "isAllStar": false,
-                "statistics": {
-                    "pointsPerGame": 16.1,
-                    "assistsPerGame": 1.9,
-                    "reboundsPerGame": 10.5
-                }
+        "player": {
+            "name": "Devin Booker",
+            "age": 25,
+            "height_cm": 198,
+            "birthdate": "1996-10-30",
+            "position": "SG",
+            "jerseyNumber": 1,
+            "isAllStar": true,
+            "statistics": {
+                "pointsPerGame": 27.9,
+                "assistsPerGame": 6.5,
+                "reboundsPerGame": 4.8
             }
-        ]
+        }
     },
     {
         "teamName": "Portland Trail Blazers",
@@ -1493,51 +582,21 @@
         "location": "Portland",
         "conference": "Oeste",
         "establishedYear": 1970,
-        "players": [
-            {
-                "name": "Damian Lillard",
-                "age": 31,
-                "height_cm": 191,
-                "birthdate": "1990-07-15",
-                "position": "PG",
-                "jerseyNumber": 0,
-                "isAllStar": true,
-                "statistics": {
-                    "pointsPerGame": 25.7,
-                    "assistsPerGame": 7.9,
-                    "reboundsPerGame": 4.1
-                }
-            },
-            {
-                "name": "CJ McCollum",
-                "age": 30,
-                "height_cm": 193,
-                "birthdate": "1991-09-19",
-                "position": "SG",
-                "jerseyNumber": 3,
-                "isAllStar": false,
-                "statistics": {
-                    "pointsPerGame": 22.6,
-                    "assistsPerGame": 5.1,
-                    "reboundsPerGame": 4.6
-                }
-            },
-            {
-                "name": "Norman Powell",
-                "age": 29,
-                "height_cm": 193,
-                "birthdate": "1993-05-25",
-                "position": "SF",
-                "jerseyNumber": 24,
-                "isAllStar": false,
-                "statistics": {
-                    "pointsPerGame": 18.2,
-                    "assistsPerGame": 2.3,
-                    "reboundsPerGame": 3.6
-                }
+        "player": {
+            "name": "Damian Lillard",
+            "age": 31,
+            "height_cm": 191,
+            "birthdate": "1990-07-15",
+            "position": "PG",
+            "jerseyNumber": 0,
+            "isAllStar": true,
+            "statistics": {
+                "pointsPerGame": 25.7,
+                "assistsPerGame": 7.9,
+                "reboundsPerGame": 4.1
             }
-        ]
-    },
+        }
+    },    
     {
         "teamName": "Sacramento Kings",
         "teamId": 26,
@@ -1545,51 +604,21 @@
         "location": "Sacramento",
         "conference": "Oeste",
         "establishedYear": 1923,
-        "players": [
-            {
-                "name": "De'Aaron Fox",
-                "age": 24,
-                "height_cm": 193,
-                "birthdate": "1997-12-20",
-                "position": "PG",
-                "jerseyNumber": 5,
-                "isAllStar": false,
-                "statistics": {
-                    "pointsPerGame": 22.5,
-                    "assistsPerGame": 7.2,
-                    "reboundsPerGame": 3.9
-                }
-            },
-            {
-                "name": "Tyrese Haliburton",
-                "age": 21,
-                "height_cm": 198,
-                "birthdate": "2000-02-29",
-                "position": "SG",
-                "jerseyNumber": 0,
-                "isAllStar": false,
-                "statistics": {
-                    "pointsPerGame": 15.6,
-                    "assistsPerGame": 6.3,
-                    "reboundsPerGame": 3.9
-                }
-            },
-            {
-                "name": "Harrison Barnes",
-                "age": 29,
-                "height_cm": 203,
-                "birthdate": "1992-05-30",
-                "position": "SF",
-                "jerseyNumber": 40,
-                "isAllStar": false,
-                "statistics": {
-                    "pointsPerGame": 16.5,
-                    "assistsPerGame": 3.2,
-                    "reboundsPerGame": 7.0
-                }
+        "player": {
+            "name": "De'Aaron Fox",
+            "age": 24,
+            "height_cm": 193,
+            "birthdate": "1997-12-20",
+            "position": "PG",
+            "jerseyNumber": 5,
+            "isAllStar": false,
+            "statistics": {
+                "pointsPerGame": 22.5,
+                "assistsPerGame": 7.2,
+                "reboundsPerGame": 3.9
             }
-        ]
-    },
+        }
+    },    
     {
         "teamName": "San Antonio Spurs",
         "teamId": 27,
@@ -1597,50 +626,20 @@
         "location": "San Antonio",
         "conference": "Oeste",
         "establishedYear": 1967,
-        "players": [
-            {
-                "name": "Dejounte Murray",
-                "age": 25,
-                "height_cm": 196,
-                "birthdate": "1996-09-19",
-                "position": "PG",
-                "jerseyNumber": 5,
-                "isAllStar": false,
-                "statistics": {
-                    "pointsPerGame": 21.3,
-                    "assistsPerGame": 8.1,
-                    "reboundsPerGame": 9.3
-                }
-            },
-            {
-                "name": "Keldon Johnson",
-                "age": 22,
-                "height_cm": 201,
-                "birthdate": "1999-10-11",
-                "position": "SF",
-                "jerseyNumber": 3,
-                "isAllStar": false,
-                "statistics": {
-                    "pointsPerGame": 17.8,
-                    "assistsPerGame": 2.4,
-                    "reboundsPerGame": 6.6
-                }
-            },
-            {
-                "name": "Derrick White",
-                "age": 27,
-                "height_cm": 196,
-                "birthdate": "1994-07-02",
-                "position": "PG",
-                "jerseyNumber": 4,
-                "isAllStar": false,
-                "statistics": {
-                    "pointsPerGame": 14.6,
-                    "assistsPerGame": 4.3,
-                    "reboundsPerGame": 3.8
-                }
+        "player": {
+            "name": "Dejounte Murray",
+            "age": 25,
+            "height_cm": 196,
+            "birthdate": "1996-09-19",
+            "position": "PG",
+            "jerseyNumber": 5,
+            "isAllStar": false,
+            "statistics": {
+                "pointsPerGame": 21.3,
+                "assistsPerGame": 8.1,
+                "reboundsPerGame": 9.3
             }
-        ]
+        }
     },
     {
         "teamName": "Toronto Raptors",
@@ -1649,51 +648,21 @@
         "location": "Toronto",
         "conference": "Este",
         "establishedYear": 1995,
-        "players": [
-            {
-                "name": "Pascal Siakam",
-                "age": 28,
-                "height_cm": 206,
-                "birthdate": "1994-04-02",
-                "position": "PF",
-                "jerseyNumber": 43,
-                "isAllStar": true,
-                "statistics": {
-                    "pointsPerGame": 22.9,
-                    "assistsPerGame": 5.7,
-                    "reboundsPerGame": 8.6
-                }
-            },
-            {
-                "name": "Fred VanVleet",
-                "age": 28,
-                "height_cm": 183,
-                "birthdate": "1994-02-25",
-                "position": "PG",
-                "jerseyNumber": 23,
-                "isAllStar": false,
-                "statistics": {
-                    "pointsPerGame": 19.6,
-                    "assistsPerGame": 7.9,
-                    "reboundsPerGame": 4.2
-                }
-            },
-            {
-                "name": "OG Anunoby",
-                "age": 24,
-                "height_cm": 203,
-                "birthdate": "1997-07-17",
-                "position": "SF",
-                "jerseyNumber": 3,
-                "isAllStar": false,
-                "statistics": {
-                    "pointsPerGame": 16.5,
-                    "assistsPerGame": 2.5,
-                    "reboundsPerGame": 6.7
-                }
+        "player": {
+            "name": "Pascal Siakam",
+            "age": 28,
+            "height_cm": 206,
+            "birthdate": "1994-04-02",
+            "position": "PF",
+            "jerseyNumber": 43,
+            "isAllStar": true,
+            "statistics": {
+                "pointsPerGame": 22.9,
+                "assistsPerGame": 5.7,
+                "reboundsPerGame": 8.6
             }
-        ]
-    },
+        }
+    },    
     {
         "teamName": "Utah Jazz",
         "teamId": 29,
@@ -1701,51 +670,21 @@
         "location": "Utah",
         "conference": "Oeste",
         "establishedYear": 1974,
-        "players": [
-            {
-                "name": "Donovan Mitchell",
-                "age": 25,
-                "height_cm": 191,
-                "birthdate": "1996-09-07",
-                "position": "SG",
-                "jerseyNumber": 45,
-                "isAllStar": true,
-                "statistics": {
-                    "pointsPerGame": 26.8,
-                    "assistsPerGame": 6.1,
-                    "reboundsPerGame": 4.5
-                }
-            },
-            {
-                "name": "Rudy Gobert",
-                "age": 29,
-                "height_cm": 216,
-                "birthdate": "1992-06-26",
-                "position": "C",
-                "jerseyNumber": 27,
-                "isAllStar": true,
-                "statistics": {
-                    "pointsPerGame": 15.2,
-                    "assistsPerGame": 1.7,
-                    "reboundsPerGame": 14.1
-                }
-            },
-            {
-                "name": "Mike Conley",
-                "age": 34,
-                "height_cm": 185,
-                "birthdate": "1987-10-11",
-                "position": "PG",
-                "jerseyNumber": 10,
-                "isAllStar": true,
-                "statistics": {
-                    "pointsPerGame": 13.9,
-                    "assistsPerGame": 6.9,
-                    "reboundsPerGame": 3.8
-                }
+        "player": {
+            "name": "Donovan Mitchell",
+            "age": 25,
+            "height_cm": 191,
+            "birthdate": "1996-09-07",
+            "position": "SG",
+            "jerseyNumber": 45,
+            "isAllStar": true,
+            "statistics": {
+                "pointsPerGame": 26.8,
+                "assistsPerGame": 6.1,
+                "reboundsPerGame": 4.5
             }
-        ]
-    },
+        }
+    },    
     {
         "teamName": "Washington Wizards",
         "teamId": 30,
@@ -1753,48 +692,19 @@
         "location": "Washington",
         "conference": "Este",
         "establishedYear": 1961,
-        "players": [
-            {
-                "name": "Bradley Beal",
-                "age": 29,
-                "height_cm": 196,
-                "birthdate": "1993-06-28",
-                "position": "SG",
-                "jerseyNumber": 3,
-                "isAllStar": true,
-                "statistics": {
-                    "pointsPerGame": 30.5,
-                    "assistsPerGame": 6.0,
-                    "reboundsPerGame": 5.2
-                }
-            },
-            {
-                "name": "Spencer Dinwiddie",
-                "age": 28,
-                "height_cm": 196,
-                "birthdate": "1993-04-06",
-                "position": "PG",
-                "jerseyNumber": 26,
-                "isAllStar": false,
-                "statistics": {
-                    "pointsPerGame": 17.2,
-                    "assistsPerGame": 7.3,
-                    "reboundsPerGame": 4.5
-                }
-            },
-            {
-                "name": "Kyle Kuzma",
-                "age": 27,
-                "height_cm": 206,
-                "birthdate": "1995-07-24",
-                "position": "PF",
-                "jerseyNumber": 33,
-                "isAllStar": false,
-                "statistics": {
-                    "pointsPerGame": 15.6,
-                    "assistsPerGame": 2.9,
-                    "reboundsPerGame": 7.3
-                }
+        "player": {
+            "name": "Bradley Beal",
+            "age": 29,
+            "height_cm": 196,
+            "birthdate": "1993-06-28",
+            "position": "SG",
+            "jerseyNumber": 3,
+            "isAllStar": true,
+            "statistics": {
+                "pointsPerGame": 30.5,
+                "assistsPerGame": 6.0,
+                "reboundsPerGame": 5.2
             }
-        ]
-}
+        }
+    }    
+]
